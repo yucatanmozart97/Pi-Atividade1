@@ -1,0 +1,30 @@
+.divpai1 {
+    width: 500px;
+    height: 500px;
+    background-color: #daa520;
+}
+
+.div12 {
+background-color: #e3fbe3;
+height: 50%;
+width: 50%;
+}
+.div13 {
+    color: white;
+    background-color: rgb(180, 218, 78);
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.divpai12 {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(103, 211, 238);
+}
+
+.div21 {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(173, 88, 32);
+}
